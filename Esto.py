@@ -1,3 +1,4 @@
 print ("hello_werorld")
-
-pass
+x= 0
+if x== 0:
+    dormir = True
